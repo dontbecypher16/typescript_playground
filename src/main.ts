@@ -1,7 +1,6 @@
 // Import readline module for getting input from console
 // Find more here: https://nodejs.org/api/readline.html#readline_readline
 import readline from 'readline';
-import numbers from './utilities/numbers';
 
 // define question/output interface
 const rl = readline.createInterface({

@@ -3,3 +3,4 @@ const myFunc = (num: number): number => {
 }
 
 export default myFunc
+

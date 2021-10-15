@@ -18,8 +18,10 @@
     "prettier": "^2.4.1"
   },
   "dependencies": {
+    "@types/axios": "^0.14.0",
     "@types/jasmine": "^3.9.1",
     "@types/node": "^16.10.3",
+    "axios": "^0.23.0",
     "jasmine": "^3.9.0",
     "jasmine-spec-reporter": "^7.0.0",
     "ts-node": "^10.2.1",
